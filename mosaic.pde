@@ -79,4 +79,6 @@ void draw() {
       }
     }
   }
+  
+  save("mosaic.png");
 }
